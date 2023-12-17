@@ -1,3 +1,4 @@
+Rahn Stavar
 ## Write-up:
 `ret2win32` binary is a standard Intel 32-bit ELF.
 ```bash

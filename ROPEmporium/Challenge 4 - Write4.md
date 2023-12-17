@@ -1,3 +1,4 @@
+Rahn Stavar
 ## Write-up:
 ![[Pasted image 20231217171946.png]]
 `NX` bit is set and no `PIE`.

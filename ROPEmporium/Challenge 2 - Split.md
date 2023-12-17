@@ -1,3 +1,4 @@
+Rahn Stavar
 ## Write-up:
 Like in challenge 1, the `NX` bit is set, and there some interesting function names:
 ![[Pasted image 20231215174011.png]]
