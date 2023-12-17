@@ -1,5 +1,4 @@
-## Description:
-> The elements that allowed you to complete ret2win are still present, they've just been split apart. Find them and recombine them using a short ROP chain.
+# Useful challenge info
 > ![[Pasted image 20231215182344.png]]
 ## Write-up:
 ![[Pasted image 20231217151601.png]]

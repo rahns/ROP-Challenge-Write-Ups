@@ -1,5 +1,3 @@
-## Description:
-> Locate a method that you want to call within the binary. Call it by overwriting a saved return address on the stack.
 ## Write-up:
 `ret2win32` binary is a standard Intel 32-bit ELF.
 ```bash
