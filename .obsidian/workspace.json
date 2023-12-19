@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ROPEmporium/Challenge 1 - Ret2Win.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3256e7a5e8fe2575",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ROPEmporium/Challenge 3 - Callme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e32ca5e552abc0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "ASLR+DEP Bypass/Ret2Libc ASLR+DEP Bypass.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351.5
   },
   "right": {
     "id": "6a2d9cf917f07176",
@@ -171,30 +146,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e32ca5e552abc0d",
+  "active": "597acdaa5dfe52ce",
   "lastOpenFiles": [
-    "ROPEmporium/Challenge 4 - Write4.md",
+    "ASLR+DEP Bypass/exploit.py",
+    "ASLR+DEP Bypass/New Text Document.txt",
+    "ASLR+DEP Bypass/Ret2Libc ASLR+DEP Bypass.pdf",
+    "Pasted image 20231219230259.png",
+    "Pasted image 20231219225750.png",
+    "Pasted image 20231219225424.png",
+    "Pasted image 20231219223844.png",
+    "Pasted image 20231219223459.png",
+    "Pasted image 20231219223007.png",
+    "Pasted image 20231219222930.png",
+    "Pasted image 20231219222913.png",
+    "Pasted image 20231219222841.png",
+    "Pasted image 20231219222715.png",
+    "ROPEmporium/Challenge 1 - Ret2Win.md",
     "ASLR+DEP Bypass/Ret2Libc ASLR+DEP Bypass.md",
+    "ROPEmporium/Challenge 3 - Callme.md",
+    "Pasted image 20231218215816.png.md",
+    "ROPEmporium/Challenge 2 - Split.md",
+    "ROPEmporium/Challenge 4 - Write4.md",
     "ASLR+DEP Bypass",
     "ROPEmporium/Challenge 4 - Write4.pdf",
-    "ROPEmporium/Challenge 3 - Callme.md",
     "ROPEmporium/Challenge 3 - Callme.pdf",
     "ROPEmporium/Challenge 2 - Split.pdf",
-    "ROPEmporium/Challenge 2 - Split.md",
-    "ROPEmporium/Challenge 1 - Ret2Win.md",
     "ROPEmporium/Challenge 1 - Ret2Win.pdf",
     "README.md",
     "New Text Document.txt",
-    "Pasted image 20231217221422.png",
-    "Pasted image 20231217175135.png",
-    "Pasted image 20231217174248.png",
-    "Pasted image 20231217173552.png",
-    "Pasted image 20231217173301.png",
-    "Pasted image 20231217172856.png",
-    "Pasted image 20231217172827.png",
-    "Pasted image 20231217171946.png",
-    "Pasted image 20231217165300.png",
-    "Pasted image 20231217163219.png",
     "ROPEmporium"
   ]
 }
